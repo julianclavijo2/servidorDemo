@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "pId": "xyz987",
+      "name": "Empanada",
+      "img": "https://www.tastyaz.com/wp-content/uploads/2020/12/Colombian-Empanadas-8.jpg",
+      "description": "Rica y deliciosa empanada con mucha carne y pollo"
+    },
+    {
+      "pId": "jkl567",
+      "name": "Gaseosa",
+      "img": "https://img2.freepng.es/20181201/sxf/kisspng-fizzy-drinks-the-coca-cola-company-diet-coke-coco-cola-helime-pictures-free-download-5c03157859b4f0.6048480315437059763675.jpg",
+      "description": "Gaseosa de 1 1/2 litros con mucho azucar y muy saludable"
+    },
+    {
+      "pId": "jkl569",
+      "name": "Paquete de papas",
+      "img": "https://www.trujillomarket.pe/Assets/images/uploads/pro_b4d0069149fb0633401bcd31a812fd55.jpg",
+      "description": "Ricas papas de origen colombiana"
+    },
+    {
+      "pId": "jkl570",
+      "name": "Todo rico",
+      "img": "https://storage.googleapis.com/mysinventarios-imagenes/mys_20182322012334.jpeg",
+      "description": "Todo rico original con sabor natural"
+    },
+    {
+      "pId": "jkl580",
+      "name": "chocorramo",
+      "img": "https://www.comedordelosmilagros.com/wp-content/uploads/2021/02/Chocoramo-min-150x150.jpg",
+      "description": "Delicioso chocorramos , contenido neto 65gramos , cubierto de chocolate"
+    },
+    {
+      "pId": "jkl581",
+      "name": "ponymalta",
+      "img": "https://alianza-zapatoca.s3.amazonaws.com/prod/images/products/optimized/501523-0__1000.jpg",
+      "description": " Hecha con estandares de calidad  Y Rica en cebada , Bebida Pony Malta Lata X330ml"
+    },
+    {
+      "pId": "jkl582",
+      "name": "gancito",
+      "img": "https://cdn.shopify.com/s/files/1/2234/1321/products/gansito2_684x752.jpg",
+      "description": "Cubierta de chocolate y relleno de chantilli un clasico colombiano"
+    },
+    {
+      "pId": "jkl583",
+      "name": "tostacos",
+      "img": "https://m.media-amazon.com/images/I/51fRMF+MhMS.jpg",
+      "description": "Paquete de tostacos hechos con trigo de los campos de colombia"
+    }
+  ],
+  "checkout": {
+    "empployeeId": "abc1234",
+    "products": [
+      {
+        "pId": "jkl582",
+        "quantity": 1
+      },
+      {
+        "pId": "jkl583",
+        "quantity": 1
+      }
+    ]
+  }
+}
